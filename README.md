@@ -1,22 +1,23 @@
 # 🛒 TechStore
- TechStore é um projeto de e-commerce para produtos tecnológicos, desenvolvido para oferecer uma experiência rápida e responsiva. 🚀
+ TechStore é um projeto de um e-commerce para produtos tecnológicos, desenvolvido para oferecer uma experiência rápida e responsiva. 🚀
 
 ## 🔧 Tecnologias Utilizadas
-🟦 TypeScript – Tipagem estática para um código mais seguro e escalável.
+ - **TypeScript** – Tipagem estática para um código mais seguro e escalável.
 
-⚡ Vite – Ambiente de desenvolvimento rápido e leve.
+ - **Vite** – Ambiente de desenvolvimento rápido e leve.
 
-🎨 Tailwind CSS – Estilização eficiente com classes utilitárias.
+ - **Tailwind CSS** – Estilização eficiente com classes utilitárias.
 
-## 📂 Estrutura do Projeto
+## Funcionalidades ✨
 
-📄 index.html – Arquivo HTML principal.
+- **Página Responsiva**: A página se adapta a diferentes tamanhos de tela, proporcionando uma navegação confortável em qualquer dispositivo 📱💻.
+- **Vendas de Produtos tecnológicos**: Apresentação de produtos tecnológicos com informações detalhadas sobre cada um. Com funções de adicionar ao carrinho, e filtrar.
 
-📦 package.json – Gerenciamento de dependências e scripts.
+## Como Usar 💻
 
-⚙ tsconfig.json – Configuração do TypeScript.
+1. Clone o repositório para o seu computador:
 
-📁 src/ – Código-fonte da aplicação.
-
-🤝 Contribuições
-Contribuições são bem-vindas! 🎉 Sinta-se à vontade para abrir issues e enviar pull requests para melhorias.
+   ```bash
+   git clone https://github.com/gAmoorim/TechStore
+   Abra o projeto em seu editor de código favorito.
+   -npm run dev.
