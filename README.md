@@ -1,5 +1,5 @@
 # 🛒 TechStore
- TechStore é um projeto de e-commerce para produtos tecnológicos, desenvolvido com TypeScript, Vite e Tailwind CSS para oferecer uma experiência rápida e responsiva. 🚀
+ TechStore é um projeto de e-commerce para produtos tecnológicos, desenvolvido para oferecer uma experiência rápida e responsiva. 🚀
 
 ## 🔧 Tecnologias Utilizadas
 🟦 TypeScript – Tipagem estática para um código mais seguro e escalável.
